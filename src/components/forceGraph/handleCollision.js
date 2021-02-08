@@ -1,5 +1,7 @@
 import { forceCollide, forceCenter } from "d3-force";
 
+// todo: get better v-control
+
 export const rescueNode = (node, limit) => {
   // bounce on box walls
   if (Math.abs(node.x) > limit) {
