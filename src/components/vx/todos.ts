@@ -1,0 +1,18 @@
+export default [
+  "Get the foss-repo up and running to:",
+  "work with the ui and data containers",
+  "get more control over point-position, so that it looks like figma",
+  "kind of hard if depth vary a lot, feedback on the examples!",
+  "handle points/text flowing outside chart area",
+  "handle text overlap when many points",
+  "make component more generic/reusable",
+  "handle title",
+  "Q:",
+  "- data limitations? name.len->escerpt or max-depth-lvl?",
+  "- any interactions? expand on event or show-always? etc",
+  "- transitions? on enter or resize?",
+  "- for the bundle: is this lib too large?",
+  "- project dealine: possible to try other libs or tweak this one further?",
+  "- colors? vary from a static list, random or certain logic?",
+  "- font-size: static? responsive? semistatic on breakpoints?",
+];
